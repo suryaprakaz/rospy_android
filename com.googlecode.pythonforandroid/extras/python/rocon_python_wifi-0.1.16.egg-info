@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: rocon_python_wifi
+Version: 0.1.16
+Summary: The pythonwifi package is available through pypi, but not through a 
+    deb package. This is copy of the package suitable for use through the
+    ROS ecosystem.
+Home-page: http://pythonwifi.wikispot.org/
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: GPLv2
+Description: UNKNOWN
+Platform: UNKNOWN

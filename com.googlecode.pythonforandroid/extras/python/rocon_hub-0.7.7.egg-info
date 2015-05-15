@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: rocon_hub
+Version: 0.7.7
+Summary: A hub acts as a shared key-value store for multiple ros 
+    systems (primarily used by gateways).
+Home-page: http://ros.org/wiki/rocon_hub
+Author: Daniel Stonier <d.stonier@gmail.com>, Jihoon Lee <jihoonlee.in@gmail.com>, Piyush Khandelwal <piyushk@gmail.com>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: redis

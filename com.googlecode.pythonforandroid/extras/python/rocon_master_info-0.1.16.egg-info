@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_master_info
+Version: 0.1.16
+Summary: Publish master information - name, description, icon.
+Home-page: http://ros.org/wiki/rocon_master_info
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

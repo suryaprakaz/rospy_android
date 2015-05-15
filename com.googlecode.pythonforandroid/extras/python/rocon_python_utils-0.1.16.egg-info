@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_python_utils
+Version: 0.1.16
+Summary: Python system and ros utilities.
+Home-page: http://ros.org/wiki/rocon_python_utils
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: world_canvas_server
+Version: 0.1.0
+Summary: Storage manager and server for WCF semantic maps.
+Home-page: http://ros.org/wiki/world_canvas_server
+Author: Jorge Santos Simón
+Author-email: jsantossimon@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: roslib
+Requires: rospy
+Requires: world_canvas_msgs
+Requires: world_canvas_libs

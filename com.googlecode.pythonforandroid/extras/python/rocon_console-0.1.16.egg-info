@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_console
+Version: 0.1.16
+Summary: Command line python console utilities (mostly for colourisation).
+Home-page: http://ros.org/wiki/rocon_console
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

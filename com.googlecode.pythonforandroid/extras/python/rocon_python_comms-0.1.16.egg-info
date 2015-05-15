@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_python_comms
+Version: 0.1.16
+Summary: Service pair libraries for pub/sub non-blocking services.
+Home-page: http://ros.org/wiki/rocon_python_comms
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

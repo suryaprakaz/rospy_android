@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_uri
+Version: 0.1.16
+Summary: Module for working with rocon uri strings.
+Home-page: http://ros.org/wiki/rocon_uri
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: rocon_ebnf
+Version: 0.1.16
+Summary: Internal packaging of the 0.91 version of the simple python
+    <a href="http://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_Form">EBNF</a>
+    parser written by LParis.
+Home-page: http://lparis45.free.fr/rp.html
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: GPL
+Description: UNKNOWN
+Platform: UNKNOWN

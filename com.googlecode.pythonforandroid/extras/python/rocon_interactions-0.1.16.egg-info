@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_interactions
+Version: 0.1.16
+Summary: Interaction management for human interactive agents in the concert.
+Home-page: http://ros.org/wiki/rocon_interactions
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

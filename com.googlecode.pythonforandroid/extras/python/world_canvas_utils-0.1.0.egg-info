@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: world_canvas_utils
+Version: 0.1.0
+Summary: C++/Python utilities library for the world canvas framework.
+Home-page: http://ros.org/wiki/world_canvas_utils
+Author: Jorge Santos
+Author-email: jsantossimon@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: roslib
+Requires: rospy
+Requires: world_canvas_msgs

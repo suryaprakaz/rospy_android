@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_apps
+Version: 0.7.8
+Summary: Core rocon apps for use with the appmanager and rocon concert.
+Home-page: http://wiki.ros.org/rocon_apps
+Author: Daniel Stonier <d.stonier@gmail.com>, Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

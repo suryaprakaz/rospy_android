@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pano_ros
+Version: 2.3.3
+Summary: The ros frontend to the pano subsystem.
+Home-page: http://ros.org/wiki/pano_ros
+Author: Jihoon Lee
+Author-email: jihoonlee.in@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: roslib
+Requires: rospy

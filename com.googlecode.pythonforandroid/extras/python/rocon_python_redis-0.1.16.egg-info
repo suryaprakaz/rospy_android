@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_python_redis
+Version: 0.1.16
+Summary: Locally patched version of the python redis client (https://github.com/andymccurdy/redis-py).
+Home-page: https://github.com/andymccurdy/redis-py
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

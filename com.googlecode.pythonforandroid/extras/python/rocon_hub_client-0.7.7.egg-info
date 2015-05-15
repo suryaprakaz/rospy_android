@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: rocon_hub_client
+Version: 0.7.7
+Summary: Client api for discovery and connection to rocon hubs. It also has
+    a few convenience api for manipulating data on the hub.
+Home-page: http://ros.org/wiki/rocon_hub_client
+Author: Daniel Stonier <d.stonier@gmail.com>, Jihoon Lee <jihoonlee.in@gmail.com>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: redis
+Requires: rospy
+Requires: rocon_gateway

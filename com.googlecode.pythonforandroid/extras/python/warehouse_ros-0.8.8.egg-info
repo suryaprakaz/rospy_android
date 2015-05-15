@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: warehouse_ros
+Version: 0.8.8
+Summary: Persistent storage of ROS data using MongoDB
+Home-page: http://ros.org/wiki/warehouse_ros
+Author: Ioan Sucan
+Author-email: isucan@google.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: roslib
+Requires: rospy
